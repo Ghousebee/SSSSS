@@ -1,0 +1,26 @@
+p{
+    font-family:normal;
+    font-size: 16px;
+}
+p.serif{
+    text-align: right;
+}
+p.arabic{
+    text-align: center;
+}
+p.nav{
+    text-align:left;
+}
+p.sun{
+    text-align:right;
+    font-size:16px;
+}
+p.car{
+    text-align:center;
+    font-size:16px;
+    font-family:normal;
+}
+
+h1{
+    text-align: center;
+}
